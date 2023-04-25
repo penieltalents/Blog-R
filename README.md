@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/penieltalents/Blog-R.git)
-- Live Site URL: [Add live site URL here](https://comfy-paprenjak-aac120.netlify.app/)
+- Solution URL: [https://github.com/penieltalents/Blog-R.git]()
+- Live Site URL: [https://comfy-paprenjak-aac120.netlify.app/]()
 
 ## My process
 
